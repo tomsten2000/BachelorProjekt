@@ -2,13 +2,13 @@
 
 Projektet består af følgende 2 github repositories:
 
-[Inventory Service](https://github.com/Cph-ta181/InventoryService) &nbsp; [Trade Service](https://github.com/Cph-ta181/TradeService)
+[Inventory Service](https://github.com/tomsten2000/InventoryService) &nbsp; [Trade Service](https://github.com/tomsten2000/TradeService)
 
 ### Opsætning:
 ```console
-git clone https://github.com/Cph-ta181/BachelorProjekt.git;
+git clone https://github.com/tomsten2000/BachelorProjekt.git;
 cd BachelorProjekt;
-git clone https://github.com/Cph-ta181/InventoryService.git;
-git clone https://github.com/Cph-ta181/TradeService.git;
+git clone https://github.com/tomsten2000/InventoryService.git;
+git clone https://github.com/tomsten2000/TradeService.git;
 docker-compose up;
 ```
